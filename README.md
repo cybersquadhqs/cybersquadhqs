@@ -11,6 +11,7 @@
 <h1 align="center">C Y B E R S Q U A D</h1>
 <h3 align="center">COLLABORATING FOR CYBER RESILIENCE!</h3>
 
+
 <br>
 <br>
 <br>
@@ -187,10 +188,13 @@
 
 <br>
 
-
+> ----------
+>
 > AT THE CORE OF OUR BUSINESS LIES A STEADFAST COMMITMENT TO EXCELLENCE, INTEGRITY, AND EMPOWERMENT. HERE'S A GLIMPSE INTO OUR PHILOSOPHY AND THE UNWAVERING COMMITMENT WE HOLD TOWARDS OUR BUSINESS, CLIENTS, AND COLLABORATIVE TEAMS:
-
- 
+>
+> ![img004](https://github.com/user-attachments/assets/19a75699-806d-4da7-a67b-336d59667b90)
+>
+> ----------
  
 <br>
 
@@ -277,14 +281,82 @@
 <br>
 <br>
 
+
+<h2 align="center">WORK-LIFE FREEDOM FRAMEWORK</h2>
+
+<br>
+
+> ----------
+> 
+> OUR WORK-LIFE FREEDOM FRAMEWORK IS A HOLISTIC APPROACH WE'VE DEVELOPED TO EMPOWER OURSELVES AND OTHERS WITH THE INTELLECTUAL, PROFESSIONAL, AND PERSONAL FREEDOMS NECESSARY FOR INNOVATION AND SUSTAINABLE SUCCESS. WE STRIVE TO FOSTER A COLLABORATIVE AND SUPPORTIVE ENVIRONMENT WHERE AUTONOMY, WELL-BEING, AND CREATIVITY THRIVE, ALLOWING EACH PERSON IN OUR COMMUNITY TO ACHIEVE THEIR FULL POTENTIAL.
+>
+> ![img003](https://github.com/user-attachments/assets/68c16262-225a-4cca-9be9-652c3e3bd595)
+>
+> ----------
+
+<br>
+
+### Intellectual and Professional Growth
+
+- **Intellectual Freedom**: We believe in the principle of unrestricted intellectual exploration, empowering ourselves and others to think, learn, and innovate freely. This approach drives breakthroughs in areas we are passionate about, such as AI, cybersecurity, and quantum computing.
+- **Creative Freedom**: We encourage open expression and the sharing of ideas without limitations, fostering creativity through collaborative projects and promoting unique contributions across different fields.
+- **Career Freedom**: We value the autonomy to pursue career paths aligned with personal passions. We support ongoing mentorship, skill development, and growth, believing in lifelong learning for ourselves and those around us.
+- **Freedom of Purpose**: We strive to work in alignment with our values, creating a mission-driven path where personal passions and technological advancement unite.
+- **Freedom of Opportunity**: Inclusivity is important to us, and we are committed to ensuring equal access to opportunities for growth and development, building a truly diverse and welcoming community.
+
+### Work Flexibility
+
+- **Time Freedom**: We prioritize flexible scheduling to balance work and personal commitments, enhancing productivity and well-being.
+- **Location Freedom**: We embrace remote and hybrid work options, enabling us and others to contribute from any location, unrestricted by geography.
+- **Autonomy Freedom**: We value making independent decisions and fostering self-driven success, allowing for customized career paths that suit individual goals.
+
+### Collaboration and Community
+
+- **Freedom of Expression**: We cultivate an open and collaborative community where ideas, insights, and opinions are shared freely, promoting innovation and mutual respect.
+- **Freedom of Association**: We believe in building strong community ties, enabling collaboration, team formation, and partnerships that propel collective progress.
+
+### Well-being and Sustainability
+
+- **Health Freedom**: We are committed to supporting physical and mental well-being, promoting a balanced lifestyle with resources to encourage healthy work-life integration.
+- **Environmental Freedom**: We advocate for sustainable practices, supporting responsible resource use and eco-friendly initiatives that benefit both our community and society.
+
+### Autonomy and Privacy
+
+- **Freedom of Privacy**: Privacy is a core value for us, respecting personal boundaries and maintaining a healthy division between work and personal life.
+- **Freedom from Routine**: We embrace flexibility to break from monotonous patterns, encouraging new experiences that enhance creativity and foster innovative thinking.
+
+### Legal and Ethical Protections
+
+- **Legal Freedom**: We are dedicated to fair policies and protections for ourselves and others, ensuring a safe, just, and non-restrictive work environment.
+- **Freedom of Conscience**: We believe in following our ethical and moral beliefs without external pressure, fostering a supportive and inclusive community.
+
+**Summary**  
+Our Work-Life Freedom Framework provides a foundation for growth, innovation, and community, creating an inclusive space where each person is supported in their professional journey and personal development. This framework reflects our dedication to fostering a healthy, sustainable, and empowering environment for everyone involved.
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ 
 <h2 align="center">IDEOLOGIES</h2>
 
 
 <br>
 
-  
-
+> ----------
+>
 > IN THE FORGE OF HUMAN STRUGGLE, IDEOLOGIES EMERGE AS IMMORTAL FORCES, SURPASSING THE CONSTRAINTS OF FLESH AND BONE TO COMMAND HEARTS AND MINDS. THEY BREAK FREE FROM CHAINS, TRANSCEND BORDERS, AND DEFY EVEN DEATH ITSELF.
+>
+> ![img001](https://github.com/user-attachments/assets/ee882d1d-f819-432e-a00b-47fe4d53e0cc)
+>
+> ----------
 
 <br>
  
@@ -333,9 +405,15 @@
 <br>
  
 
+> ----------
+>
 > INNOVATION, ROOTED IN STEADFAST PRINCIPLES—QUALITY, CUSTOMER FOCUS, TEAM EMPOWERMENT, RELENTLESS IMPROVEMENT, AND BOUNDLESS OPTIMISM—DRIVES US FORWARD. IN OUR COMMUNITY, WE CHART A COURSE FOR SUCCESS WITH UNSHAKABLE DEDICATION AND RESOLVE.
-
+>
+> ![img002](https://github.com/user-attachments/assets/4063795b-2588-43cf-81ea-60cd7d4f7277)
+>
+> ----------
  
+<br>
 
 - **Foster Coaching Excellence:** In today's dynamic landscape, leaders must embrace coaching skills to nurture growth. Cultivating a coaching mindset entails welcoming constructive feedback and encouraging upward input to identify areas for improvement. Active listening, a pivotal coaching skill, enables us to understand team members deeply and empathize with their challenges, equipping us to provide effective support.
 
@@ -399,9 +477,17 @@
 
 <h2 align="center">COMMUNITY GUIDELINES</h2>
 
+<br>
+
+> ----------
+>
+>  ![img006](https://github.com/user-attachments/assets/ab1269c1-2af4-4683-88bd-92c09e0406ec)
+> 
+> ----------
+
 
 <br>
- 
+
 
 | Guideline                          | Description                                                                                                                                                          |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -442,11 +528,15 @@
 
 <br>
 
-
+> ----------
+> 
 > **OUR SECURITY MOTTO**: *“COLLABORATE WITH CARE, INNOVATE WITH INTEGRITY.”* THESE GUIDELINES ENSURE THAT OUR SPACE REMAINS SECURE, RESPECTFUL, AND INNOVATIVE AS WE ADVANCE TOMORROW’S TECHNOLOGY.
+>
+>  ![img007](https://github.com/user-attachments/assets/bc87b8cd-9fca-4eb5-9502-786be87db173)
+>
+> ----------
 
-
- 
+<br>
  
 **1. Data Privacy and Confidentiality**  
 We are committed to the highest standards of data privacy. Members, partners, and affiliates must comply with all applicable privacy laws and data protection regulations to safeguard personal and organizational information. Access to sensitive data will be limited to authorized personnel only, and any data shared with third parties will require explicit permission and strict confidentiality agreements.
