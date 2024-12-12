@@ -1,11 +1,40 @@
 <br>
 <br>
+
+<p align="center">
+    <a href="https://github.com/cybersquadhqs/cybersquadhqs">
+        <img src="https://img.shields.io/badge/HOME-007bff?style=for-the-badge&labelColor=000000" alt="HOME" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/cybersquadhqs/solutions">
+        <img src="https://img.shields.io/badge/SOLUTIONS-007bff?style=for-the-badge&labelColor=000000" alt="SOLUTIONS" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/cybersquadhqs/vault">
+        <img src="https://img.shields.io/badge/VAULT-007bff?style=for-the-badge&labelColor=000000" alt="VAULT" style="margin: 10px;">
+    </a>
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+ 
+
+> [!NOTE]
+> The content in this repository is crafted using AI-driven prompt engineering. While we strive for accuracy, we encourage readers and users to fact-check the information and report any inaccuracies that may arise due to AI limitations or errors. Your feedback is vital to maintaining the integrity and quality of our materials. We appreciate your cooperation and support in upholding the highest standards. Thank you!
+ 
+
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 
 <h1 align="center">C Y B E R S Q U A D</h1>
