@@ -54,8 +54,11 @@
 >
 > ---
 >
+> ![cybersquadhq1](https://github.com/user-attachments/assets/9f4287b6-a531-4574-a8fd-b9773c004bbf)
 >
-> Hello, everyone! I’m Sam Rohan, the Founder, Director, and Chief Security Engineer of **CYBERSQUAD**, an open-source cybersecurity research and development initiative based in India. At **CYBERSQUAD**, we operate as a global hub for collaboration, bringing together cybersecurity enthusiasts, researchers, and professionals to advance security and threat intelligence.  
+> 
+>
+> Hello, everyone! I’m   **[Sam Rohan](https://x.com/_samrohan_),** the Founder, Director, and Chief Security Engineer of **CYBERSQUAD**, an open-source cybersecurity research and development initiative based in India. At **CYBERSQUAD**, we operate as a global hub for collaboration, bringing together cybersecurity enthusiasts, researchers, and professionals to advance security and threat intelligence.  
 >
 > Our mission is simple yet powerful: to foster innovation, strengthen security frameworks, and drive progress in digital defense. I believe that knowledge, collaboration, and innovation are the keys to building a secure digital future. Through partnerships, groundbreaking research, and empowering individuals, our goal is to create a world where digital safety and privacy should not be luxuries but universal standards.  
 >
