@@ -1,33 +1,5 @@
 <br>
 <br>
-
-<p align="center">
-    <a href="https://github.com/cybersquadhqs/cybersquadhqs">
-        <img src="https://img.shields.io/badge/HOME-007bff?style=for-the-badge&labelColor=000000" alt="HOME" style="margin: 10px;">
-    </a>
-    <a href="https://github.com/cybersquadhqs/solutions">
-        <img src="https://img.shields.io/badge/SOLUTIONS-007bff?style=for-the-badge&labelColor=000000" alt="SOLUTIONS" style="margin: 10px;">
-    </a>
-    <a href="https://github.com/cybersquadhqs/vault">
-        <img src="https://img.shields.io/badge/VAULT-007bff?style=for-the-badge&labelColor=000000" alt="VAULT" style="margin: 10px;">
-    </a>
-</p>
-
-
-<br>
-<br>
-<br>
-<br>
-
- 
-
-> [!NOTE]
-> The content in this repository is crafted using AI-driven prompt engineering. While we strive for accuracy, we encourage readers and users to fact-check the information and report any inaccuracies that may arise due to AI limitations or errors. Your feedback is vital to maintaining the integrity and quality of our materials. We appreciate your cooperation and support in upholding the highest standards. Thank you!
- 
-
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -41,6 +13,55 @@
 <h3 align="center">COLLABORATING FOR CYBER RESILIENCE!</h3>
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+----------
+
+> 
+> ## ENGINEERING AND TECHNOLOGY ARE NOT JUST JOBS; THEY ARE A WAY OF LIFE. WHEN WE DELVE INTO HISTORY, WE REALIZE THAT ENGINEERING AND TECHNOLOGY AREN'T BORN SOLELY FROM LECTURES GIVEN TO STUDENTS; THEY EMERGE FROM THE CREATION OF ENVIRONMENTS THAT TRANSFORM THEIR IDEAS INTO ACTIONS. THE ONLY CONSTRAINT ON YOUR SUCCESS AS AN ENGINEER IS THE EXTENT OF YOUR AMBITION.
+>
+
+----------
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+> [!NOTE]
+> The content in this repository is crafted using AI-driven prompt engineering. While we strive for accuracy, we encourage readers and users to fact-check the information and report any inaccuracies that may arise due to AI limitations or errors. Your feedback is vital to maintaining the integrity and quality of our materials. We appreciate your cooperation and support in upholding the highest standards. Thank you!
+
+
+
+
+<br>
+<br>
+ 
+
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">
+    <img src="https://img.shields.io/badge/license-Creative%20Commons%20BY--NC--SA%204.0-blue.svg" alt="License: CC BY-NC-SA 4.0" />
+  </a>
+</p>
+
+ 
+ 
+ 
 <br>
 <br>
 <br>
@@ -211,6 +232,14 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
+
+![shield](https://github.com/user-attachments/assets/fc89d1a5-feab-439e-b3c5-827e81640147)
+
+
+
 <br>
 <br>
 
@@ -882,24 +911,6 @@ Members are expected to uphold these security policies and guidelines at all tim
 <br>
 <br>
 
- 
-<p align="center">
-    <a href="https://github.com/cybersquadhqs/cybersquadhqs">
-        <img src="https://img.shields.io/badge/HOME-007bff?style=for-the-badge&labelColor=000000" alt="HOME" style="margin: 10px;">
-    </a>
-    <a href="https://github.com/cybersquadhqs/solutions">
-        <img src="https://img.shields.io/badge/SOLUTIONS-007bff?style=for-the-badge&labelColor=000000" alt="SOLUTIONS" style="margin: 10px;">
-    </a>
-    <a href="https://github.com/cybersquadhqs/vault">
-        <img src="https://img.shields.io/badge/VAULT-007bff?style=for-the-badge&labelColor=000000" alt="VAULT" style="margin: 10px;">
-    </a>
-</p>
-
-
-<br>
-<br>
-<br>
-<br>
  
 
 
