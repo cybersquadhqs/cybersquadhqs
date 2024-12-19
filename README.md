@@ -344,12 +344,7 @@ By combining research, academic excellence, career development, and skill-buildi
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  
 
 <h1 align="center">COLD ZERO STRATEGY</h1>
 
@@ -420,13 +415,7 @@ The **Cold Zero Strategy** is a unified approach that integrates precision, read
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+ 
 
 <h1 align="center">COLD ZERO STRATEGY: INTEGRATED WITH S.H.I.E.L.D</h1>
 
